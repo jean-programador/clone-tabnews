@@ -2,10 +2,14 @@ function Home() {
   return (
     <>
       <center>
-        <h1>Eu te Amoo!!</h1>
+        <h1>Em Construção!</h1>
       </center>
       <center>
-        <p>Mesmo se vôce fosse uma barata. hahaha</p>
+        <p>Esse site será utilizado para aprendizado.</p>
+        <p>
+          Futuramente será um portifólio de muitos projetos construidos com todo
+          o aprendizado dessa jornada!
+        </p>
       </center>
     </>
   );
